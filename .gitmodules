@@ -1,0 +1,6 @@
+[submodule "r4nd0m"]
+	path = r4nd0m
+	url = https://github.com/Honno/r4nd0m
+[submodule "sp800_22_tests"]
+	path = sp800_22_tests
+	url = https://github.com/Honno/sp800_22_tests
